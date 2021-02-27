@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Wtyczka pytesta do ponownego uruchamiania testów w celu wyel
 Name:		python-pytest-rerunfailures
 # NOTE: keep 8.x here for python2/pytest 4.x support
 Version:	8.0
-Release:	1
+Release:	2
 License:	MPL v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-rerunfailures/
